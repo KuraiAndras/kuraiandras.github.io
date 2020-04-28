@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: YAYADB | Yet Another Yet Another Dev Blog
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Because eventually you will create one too
 ---
 
-There isn't much going on here yet, but watch this space
+Small blog for technical articles, mainly on the .Net ecosystem (.Net Framework, .Net Core, Unity, WPF, ASP.NET Core, Blazor)
